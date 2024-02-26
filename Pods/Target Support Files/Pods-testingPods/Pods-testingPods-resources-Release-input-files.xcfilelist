@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-testingPods/Pods-testingPods-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleMaps/GoogleMapsResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitTranslate/MLKitTranslate_resource.bundle
